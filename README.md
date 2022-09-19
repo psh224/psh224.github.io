@@ -4,7 +4,7 @@
 
 # Introduction
 My name is Page Hewitt. I am from Cohasset, MA. I am a junior at Lehigh University and I am a journalism major, marketing minor. I am a writer for the Lehigh University newspaper, the [Brown and White](https://thebrownandwhite.com/). This is my page for my data journalism class. My personal Facebook page can be found [here](https://www.facebook.com/page.hewitt
-https://www.facebook.com/page.hewitt)
+https://www.facebook.com/page.hewitt).
 
 # About me
 I am the oldest of three kids in my family. My younger brothers are 16 and 10 years old. A fun fact about me is that I love country music and my favorite food is chocolate. 
