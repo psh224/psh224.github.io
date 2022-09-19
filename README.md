@@ -1,6 +1,6 @@
 # psh224.github.io
 
-![Profile](file:///Users/pagehewitt/Desktop/IMG_7616.jpg)
+![Profile](https://github.com/psh224/psh224.github.io/blob/main/IMG_7616.jpg)
 
 # Introduction
 My name is Page Hewitt. I am from Cohasset, MA. I am a junior at Lehigh University and I am a journalism major, marketing minor. I am a writer for the Lehigh University newspaper, the [Brown and White](https://thebrownandwhite.com/). This is my page for my data journalism class.
