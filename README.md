@@ -13,5 +13,3 @@ I am originally from Northern California and moved to Massachusetts when I was t
 
 # Why journalism?
 I chose to major in journalism because I found the department to be a perfect mix of topics I am interested in. I have taken multiple classes about the role of the media in our society and I think it is a very real and relevant topic currently. Additionally, I love that journalism takes me out of my comfort zone and I get to interview and get to know tons of new people. I think that writing is a skill you will always need no matter what you do so I can take this skill foward in anything I end up doing.
-
-theme: jekyll-theme-minimal
