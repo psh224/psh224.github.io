@@ -6,7 +6,7 @@
 My name is Page Hewitt. I am from Cohasset, MA. I am a junior at Lehigh University and I am a journalism major, marketing minor. I am a writer for the Lehigh University newspaper, the [Brown and White](https://thebrownandwhite.com/). This is my page for my data journalism class. My personal Facebook page can be found [here](https://www.facebook.com/page.hewitt). 
 
 # About me
-I am the oldest of three kids in my family. My younger brothers are 16 and 10 years old. A fun fact about me is that I love country music and my favorite food is chocolate. 
+I am the oldest of three kids in my family. My younger brothers are sixteen and ten years old. A fun fact about me is that I love country music and my favorite food is chocolate. 
 
 # Where I'm from
 I am originally from Northern California and moved to Massachusetts when I was twelve so I have lived on both coasts of the United States. I have also driven across the country three times, once with my dad and twice with my grandmother. Some of my favorite places to see were the Grand Canyon, Arches and Yosemite National Parks and New Orleans. I love to travel and stay active outside.
