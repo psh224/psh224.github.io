@@ -18,6 +18,6 @@ I chose to major in journalism because I found the department to be a perfect mi
 This data displays the number of Lehigh undergraduates from Fall 2019 who live in Greek housing, residence halls, and off campus housing. Displayed are pictures of each place residence may live and the male and female ratio as well.
 
 ![Infograph](https://raw.githubusercontent.com/psh224/psh224.github.io/main/Where%20do%20Lehigh%20undergraduates%20live.png)
-<img src="[image url](https://raw.githubusercontent.com/psh224/psh224.github.io/main/Where%20do%20Lehigh%20undergraduates%20live.png)" alt="infographic" width="400"/>
+<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Where%20do%20Lehigh%20undergraduates%20live.png" alt="infographic" width="400"/>
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Top%20music%20platforms.png" alt="Top Music Platforms" width="400"/>
