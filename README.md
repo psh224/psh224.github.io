@@ -19,6 +19,6 @@ This data displays the number of Lehigh undergraduates from Fall 2019 who live i
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Where%20do%20Lehigh%20undergraduates%20live.png" alt="infographic" width="400"/>
 
 # Top Music Platforms in 2021
-Everyone debates which music streaming platform is better or more popular so here is the data from 2021 showing which platforms are the most popular. I find this topic insteresting and relevant as an Apple Music listener while many of my friends argue that I should get Spotify because they have it. I found this data in the article [Music Streaming App Revenue and Usage Statistics](https://www.businessofapps.com/data/music-streaming-market/).  
+Which music platform should you use? Everyone debates which music streaming platform is better or more popular so here is the data from 2021 showing which platforms are the most popular. I find this topic insteresting and relevant as an Apple Music listener while many of my friends argue that I should get Spotify because they have it and so do many others. I found this data in the article [Music Streaming App Revenue and Usage Statistics](https://www.businessofapps.com/data/music-streaming-market/). 
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Top%20music%20platforms.png" alt="Top Music Platforms" width="400"/>
