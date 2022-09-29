@@ -22,3 +22,7 @@ This data displays the number of Lehigh undergraduates from Fall 2019 who live i
 Which music platform should you use? Everyone debates which music streaming platform is better or more popular so here is the data from 2021 showing which platforms are the most popular. I find this topic interesting and relevant as an Apple Music listener while many of my friends argue that I should get Spotify because they have it and so do many others. I found this data in the article [Music Streaming App Revenue and Usage Statistics](https://www.businessofapps.com/data/music-streaming-market/). 
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Top%20music%20platforms.png" alt="Top Music Platforms" width="400"/>
+
+# Le-Laf Rivalry
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C9lYSi34a_fgeTO_mUJbe5yLOTWrfz9NEUee1ojIEU8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
