@@ -31,3 +31,7 @@ Which music platform should you use? Everyone debates which music streaming plat
 # 100 Years of Fashion
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_bVriRmTQBdJ4zp0o4cPvq08Mw6YTukTO4YOYP9aWpw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Undergraduate Enrollment at Lehigh
+
+<img src=" " alt="Undergraduate Enrollment" width="400"/>
