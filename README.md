@@ -35,3 +35,7 @@ Which music platform should you use? Everyone debates which music streaming plat
 # Undergraduate Enrollment at Lehigh
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Undergraduate_Enrollment_by_College_Undergraduate_Enrollment__chartbuilder%20(2).png" alt="Undergraduate Enrollment" width="600"/>
+
+# Taylor Swift Album Sales
+
+<img src="" alt="Taylor Swift Album Sales" width="600"/>
