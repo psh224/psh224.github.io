@@ -38,4 +38,4 @@ Which music platform should you use? Everyone debates which music streaming plat
 
 # Taylor Swift Album Sales
 
-<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Taylor_Swift_Album_Sales_Sales_chartbuilder%20(1).png" alt="Taylor Swift Album Sales" width="600"/>
+<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Taylor_Swift_Album_Sales_Sales_by_Thousand_chartbuilder.png" alt="Taylor Swift Album Sales" width="600"/>
