@@ -42,4 +42,4 @@ Which music platform should you use? Everyone debates which music streaming plat
 
 # Lehigh Undergrads
 
-<img src="" alt="Lehigh Undergrad Schools" width="600"/>
+<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Students_in_Lehigh's_Undergrad_Colleges_(2016-2020)_Arts_%26_Science_Business_Engineering_chartbuilder.png" alt="Lehigh Undergrad Schools" width="600"/>
