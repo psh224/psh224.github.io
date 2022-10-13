@@ -46,4 +46,4 @@ Which music platform should you use? Everyone debates which music streaming plat
 
 # Life Satisfaction and GDP per Capita (2017)
 
-<img src="" alt="Lehigh Undergrad Schools" width="600"/>
+<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Life_Satisfaction_and_GDP_per_Capita_(2017)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png" alt="Lehigh Undergrad Schools" width="600"/>
