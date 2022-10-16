@@ -30,6 +30,8 @@ Which music platform should you use? Everyone debates which music streaming plat
 
 # 100 Years of Fashion
 
+Fashion has evolved so much and yet so little in the past 100 years. I thought this data would best be shown in a timeline format to see the differences and similarities of trends over the past 100 years. It was also very interesting to see how directly fashion is effected by hisorical and societal factors of the times. I found this data and pictures in the article [100 Years of Fashion - Women's Fashion Then and Now](https://www.lapolo.in/blog/100-years-fashion-womens-fashion).
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_bVriRmTQBdJ4zp0o4cPvq08Mw6YTukTO4YOYP9aWpw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Undergraduate Enrollment at Lehigh
@@ -37,6 +39,8 @@ Which music platform should you use? Everyone debates which music streaming plat
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Undergraduate_Enrollment_by_College_Undergraduate_Enrollment__chartbuilder%20(2).png" alt="Undergraduate Enrollment" width="600"/>
 
 # Taylor Swift Album Sales
+
+Taylor Swift is known for her massive success in the music industry. I think that comparing the sales of each of her albums shows an interesting perspective of which types of music has had the most success. It will be interesting to see her sales in the future because she is re recording a lot of her albums and adding unreleased songs. How will this change what her album sales look like? I found this data from the article [Taylor Swift album and song sales](https://chartmasters.org/2022/07/taylor-swift-albums-and-songs-sales/).
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Taylor_Swift_Album_Sales_Sales_by_Thousand_chartbuilder.png" alt="Taylor Swift Album Sales" width="600"/>
 
@@ -47,3 +51,10 @@ Which music platform should you use? Everyone debates which music streaming plat
 # Life Satisfaction and GDP per Capita (2017)
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Life_Satisfaction_and_GDP_per_Capita_(2017)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png" alt="Lehigh Undergrad Schools" width="600"/>
+
+# US Unemployment Rates
+
+
+
+<img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Unemployment_Rates_in_the_US__Unemployment_rate_chartbuilder.png" alt="US" width="600"/>
+
