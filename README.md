@@ -57,3 +57,7 @@ Taylor Swift is known for her massive success in the music industry. I think tha
 The US unemployment rates over the past 20 years is interesting data to look at with the economic climate of the past two decades. It is especially interesting to see how COVID-19 has extremly changed the rate of unemployment causing a sharp increase. I also found it noticable that although unemployment is still increasing on the pattern that it was before, the levels recovered quickly after 2020. This was a much faster recovery then I thought was possible. I found this information from the article [Unemployment Rate by Year since 1929 Compared to Inflation and GDP](https://www.thebalancemoney.com/unemployment-rate-by-year-3305506).
 
 <img src="https://raw.githubusercontent.com/psh224/psh224.github.io/main/Unemployment_Rates_in_the_US__Unemployment_rate_chartbuilder.png" alt="US" width="600"/>
+
+# Top 20 Cycling Cities
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1aaMrWtNjQg3WPp_aWNIhcLCtSMHt7-0&ehbc=2E312F" width="640" height="480"></iframe>
