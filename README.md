@@ -61,3 +61,9 @@ The US unemployment rates over the past 20 years is interesting data to look at 
 # Top 20 Cycling Cities
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1aaMrWtNjQg3WPp_aWNIhcLCtSMHt7-0&ehbc=2E312F" width="640" height="480"></iframe>
+
+# Top 10 Most Beautiful Places
+
+The world is full of hundreds of natuarlly beautiful places that it is hard to consolidate a list of places that you must see. This map illustrates all over the world the top 10 most beautiful places according to Travel and Leisure. I found this to be a great way to show pictures, descriptions and map locations for someone planning a trip. It is also easy to plan seeing multiple destinations if someone wants to travel to an area that has a consolidation of beautiful places. I found this information from the article [55 of the World's Most Beautiful Places](https://www.travelandleisure.com/trip-ideas/most-beautiful-places-in-the-world-to-visit) and you can explore the sight to find even more beautiful places.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1-hH41l3ZwFPEnQdFmDy9IRR6jAHsYj4&ehbc=2E312F" width="640" height="480"></iframe>
